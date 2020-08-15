@@ -1,17 +1,15 @@
-import React from 'react';
+import React from "react";
 
-import Routes from './routes'
+import Routes from "./routes";
 
-import './App.css'
-
-
+import "./App.css";
 
 function App() {
-  return (
-    <div>
-      <Routes />
-    </div>
-  );
+	return (
+		<div>
+			<Routes />
+		</div>
+	);
 }
 
 export default App;
